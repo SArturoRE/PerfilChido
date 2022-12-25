@@ -1,0 +1,8 @@
+/*-------------- Crearemos los diseños de la pagina inicial -----------------------*/
+.imagen{
+    text-align: center;
+    padding-top: 3%;
+}
+img{
+    border-radius: 50%;
+}
