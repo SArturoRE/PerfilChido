@@ -1,8 +1,17 @@
 /*-------------- Crearemos los diseños de la pagina inicial -----------------------*/
+h1{
+    padding-top: 1%;
+    font-size: 45px;
+}
 .imagen{
     text-align: center;
-    padding-top: 3%;
+    padding: 3% 3% 0 0 ;
+
+    /*top */
 }
-img{
+.logo{
     border-radius: 50%;
+}
+.pec{
+    color: #3d3d3d;
 }
